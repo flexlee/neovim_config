@@ -1,14 +1,17 @@
 # neovim_config
 
-## Plugins
+### Plugins
 * vim-go
 * emmit-vim
 * monokai color theme
 
-##### copy init.vim to ~/.config/nvim/
 
-##### install vim-plug
+### Installation
+
+Copy init.vim to ~/.config/nvim/
+
+Install vim-plug
     curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
         https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-##### run :PlugInstall in nvim
+Run :PlugInstall in nvim
